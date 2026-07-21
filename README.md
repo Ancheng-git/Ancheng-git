@@ -47,15 +47,6 @@ I am a **Statistics & Computer Science student at UNC Chapel Hill** focused on *
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ancheng-git&show_icons=true&theme=radial" alt="Ancheng's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancheng-git&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 - 🌐 **Personal Portfolio:** [ancheng-git.github.io](https://ancheng-git.github.io/)
