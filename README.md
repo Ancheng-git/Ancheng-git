@@ -12,8 +12,8 @@ I am a **Computer Science & Statistics student at UNC Chapel Hill** focused on *
 
 - 🎓 **Education:** B.S. in Computer Science & Statistics at University of North Carolina at Chapel Hill.
 - 🎯 **Target Roles:** Machine Learning Engineering, AI Engineering, Data Science, Data Analytics.
-- 💡 **Interests:** LLM/RAG Systems, Multi-Agent AI Architectures, Computer Vision, Exploratory Data Analysis.
-- 💬 **Ask me about:** Python, Multi-Agent Systems, TensorFlow, Tableau, SQL, and R.
+- 💡 **Interests:** LLM/RAG Systems, Multi-Agent AI Architectures, Machine Learning, Exploratory Data Analysis.
+- 💬 **Ask me about:** Python, Multi-Agent Systems, TensorFlow, Machine Learning, Tableau, SQL, and R.
 
 ---
 
