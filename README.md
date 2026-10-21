@@ -12,7 +12,7 @@ I am a **Computer Science & Statistics student at UNC Chapel Hill** focused on *
 
 - 🎓 **Education:** B.S. in Computer Science & Statistics at University of North Carolina at Chapel Hill.
 - 🎯 **Target Roles:** Machine Learning Engineering, AI Engineering, Data Science, Data Analytics.
-- 💡 **Interests:** LLM/RAG Systems, Multi-Agent AI Architectures, Machine Learning, Exploratory Data Analysis.
+- 💡 **Interests:** Machine Learning, LLM/RAG Systems, Multi-Agent AI Architectures, Exploratory Data Analysis.
 - 💬 **Ask me about:** Python, Multi-Agent Systems, TensorFlow, Machine Learning, Tableau, SQL, and R.
 
 ---
@@ -35,19 +35,25 @@ I am a **Computer Science & Statistics student at UNC Chapel Hill** focused on *
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 **Tools & Workflow:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
 
 ---
 
 ### 📊 Featured Projects & Achievements
 
+- **🧠 Small Language Model (SLM) Fine-Tuning: Fine-tuned Gemma 3 4B for support-ticket theme labeling using LoRA on augmented support-ticket data, achieving a 4.77/5 LLM-judge score.
 - **🤖 Multi-Agent AI & RAG Systems (Break Through Tech AI, Cornell):** Architected 8+ agentic workflows using LangGraph and OpenAI Agents SDK featuring parallelization, evaluator-optimizer loops, and custom MCP servers. Developed a pharmaceutical RAG pipeline using ChromaDB to mitigate hallucinations and an NLP sentiment classifier (0.72 ROC-AUC).
 - **📝 Automated Lecture Note & Transcript App:** Engineered a Python processing pipeline using FFmpeg and OpenAI Whisper to transcribe segmented audio files, utilizing GPT-4o multi-stage system prompts to generate structured study guides in Markdown and HTML.
 - **🖼️ MNIST Handwritten Digit Classifier:** Built a 4-layer CNN (99.4K params) in TensorFlow/Keras with batch normalization and global average pooling, reaching 94.09% test accuracy.
@@ -59,5 +65,5 @@ I am a **Computer Science & Statistics student at UNC Chapel Hill** focused on *
 ### 📫 Connect With Me
 
 - 🌐 **Personal Portfolio:** [ancheng-git.github.io](https://ancheng-git.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/ancheng-li-data](https://www.linkedin.com/in/ancheng-li-data/)[cite: 1]
-- ✉️ **Email:** [Ancheng@ad.unc.edu](mailto:Ancheng@ad.unc.edu)[cite: 1]
+- 💼 **LinkedIn:** [linkedin.com/in/ancheng-li-data](https://www.linkedin.com/in/ancheng-li-data/)
+- ✉️ **Email:** [Ancheng@ad.unc.edu](mailto:Ancheng@ad.unc.edu)
